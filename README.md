@@ -44,7 +44,6 @@ GitHub 可能會顯示 Invalid Notebook，無法直接預覽。
 - Long Straddle
 - Short Strangle
 - Call / Put Spread
-- 多腿選擇權組合策略
 
 針對各策略計算淨權利金、最大獲利、最大損失、損益兩平點與風險暴露。
 
